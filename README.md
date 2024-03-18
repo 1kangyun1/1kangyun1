@@ -1,7 +1,7 @@
 
 ### Hello, I'm Brian Kang
 
-## I'm a Software Developer in BrokerBay
+## I'm a Software Engineer in BrokerBay
 
 ---
 
